@@ -1,0 +1,18 @@
+/*
+Theme Name: Toposel Theme
+Author: Assistant
+Description: Custom WordPress Theme for Toposel Assignment
+Version: 1.0
+Text Domain: toposel-theme
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #000;
+}
